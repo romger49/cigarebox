@@ -1,0 +1,12 @@
+main_file: “cigare_box.pd”
+
+midi_controllers:
+volume:
+midi_cc: 4
+value: 64
+distorsion:
+midi_cc: 8
+value: ‘48’
+pitch:
+midi_cc: 1
+value: 64
